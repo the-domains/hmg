@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.40681
+  lightness: 0.234767
+  brandStrength: 0.7580645
+  brandColors:
+    - '#FDFDFD'
+    - '#A6C8EE'
+    - '#8E909F'
+    - '#1F1E2C'
+    - '#2F3C3C'
+  rhythmicContrast: 0.6863799
+typography_spectrum: 0.4301075
+name: HMG
